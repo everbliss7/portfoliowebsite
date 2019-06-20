@@ -94,10 +94,16 @@
   text-decoration: none;
   transition: all 0.5s ease-out;
 }
+#contact .icons a {
+  color: #eece1a;
+}
+#contact .icons a:hover {
+  color: #000;
+}
 .menu .nav-link:hover {
   color: #eece1a;
 }
-.text-secondary:hover {
+#contact .boxes .text-secondary:hover {
   color: #000;
 }
 .boxes .icons a:hover {
